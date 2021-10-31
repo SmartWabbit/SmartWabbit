@@ -1,4 +1,4 @@
-![banner](https://www.canva.com/design/DAEuXMTh-ZU/faqW0IgqVTE9PXVAeaQ1FA/view?utm_content=DAEuXMTh-ZU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
+<img src="https://user-images.githubusercontent.com/93460603/139567490-a1e1c4cf-a538-4b1f-927e-98fc85605f60.png" alt="mybanner">
 
 ### Hi there 👋
 
